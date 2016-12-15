@@ -1,0 +1,7 @@
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\bin\Debug\IPAddress.Plugin.dll
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\bin\Debug\IPAddress.Plugin.pdb
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\bin\Debug\Plugin.IPAddress.Abstractions.dll
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\bin\Debug\Plugin.IPAddress.Abstractions.pdb
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\obj\Debug\IPAddress.Plugin.csprojResolveAssemblyReference.cache
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\obj\Debug\IPAddress.Plugin.dll
+D:\Varun\Plugins\Plugin.IPAddress\IPAddress.Plugin\obj\Debug\IPAddress.Plugin.pdb

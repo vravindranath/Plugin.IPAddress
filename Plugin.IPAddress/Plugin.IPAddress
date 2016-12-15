@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D9347478-882E-482D-B647-AEB1FEC6E8AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IPAddress.Plugin.iOS/IPAddressFinder.cs">
+    <Files>
+      <File FileName="IPAddress.Plugin/CrossIPAddress.cs" Line="23" Column="5" />
+      <File FileName="IPAddress.Plugin.Android/CrossIPAddress.cs" Line="27" Column="56" />
+      <File FileName="IPAddress.Plugin.iOS/CrossIPAddress.cs" Line="18" Column="38" />
+      <File FileName="IPAddress.Plugin.Android/IPAddressFinder.cs" Line="14" Column="48" />
+      <File FileName="IPAddress.Plugin.iOS/IPAddressFinder.cs" Line="20" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IPAddress.Plugin.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

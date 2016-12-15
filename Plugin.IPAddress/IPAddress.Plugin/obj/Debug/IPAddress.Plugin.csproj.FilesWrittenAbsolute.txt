@@ -1,0 +1,7 @@
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/bin/Debug/IPAddress.Plugin.dll.mdb
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/bin/Debug/IPAddress.Plugin.dll
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/obj/Debug/IPAddress.Plugin.dll
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/obj/Debug/IPAddress.Plugin.dll.mdb
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/bin/Debug/Plugin.IPAddress.Abstractions.dll
+/Users/developer/Projects/Plugin.IPAddress.Abstractions/IPAddress.Plugin/bin/Debug/Plugin.IPAddress.Abstractions.dll.mdb
